@@ -5,6 +5,7 @@
 ## 資料集
 
 來源: https://aidea-web.tw/topic/a49e3f76-69c9-4a4a-bcfc-c882840b3f27
+
 官方提供之影像資料包含 6 個類別(正常類別 + 5 種瑕疵類別)下載資料 aoi_data.zip 檔案包含：
 
 * train_images.zip：訓練所需的影像資料共計 2528 張
